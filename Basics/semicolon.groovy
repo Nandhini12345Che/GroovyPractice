@@ -13,5 +13,4 @@ class semicolon {
       println('Hello World'); //semicolon is optional
 
    }
-
 }
