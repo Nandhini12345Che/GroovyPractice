@@ -20,7 +20,7 @@ println("Original Map: $CarMap")
 
 def foundInSet = CarSet.contains("apple")
 
-println("Is 'apple' in the Set? $foundInSet")
+println("Is 'BMW' in the Set? $foundInSet")
 
  
 
