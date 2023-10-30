@@ -1,0 +1,14 @@
+1.Domain: domain class is created using grails create-domain-class com.practice.grails.Teacher
+    It is independent of any other class
+
+2.Controller:
+  Using command grails create-controller  com.practice.Teacher
+A controller is responsible for handling incoming web requests and performing actions such as redirects, rendering views and so on.
+ 
+3.Service:
+   Transfer the data to the controller
+   Using command  create-controller  com.practice.Teacher
+ 
+4.Connection
+one to many connection
+static hasMany=[]
